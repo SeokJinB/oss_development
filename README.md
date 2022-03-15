@@ -1,10 +1,10 @@
 # oss_development
 
-##python
+## python
 
 **print function**
 
-###Code
+### Code
 ***python
 print("Hello")
 print(345)
@@ -13,7 +13,7 @@ print("{}".format(a))
 
 **input function**
 
-###Code
+### Code
 ***python
 get_integer=input("get integer:")
 ***
