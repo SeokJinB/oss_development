@@ -2,21 +2,21 @@
 
 ## python
 
-**print function**
+** print function **
 
 ### Code
-***python
+```python
 print("Hello")
 print(345)
 print("{}".format(a))
-***
+```
 
-**input function**
+** input function**
 
 ### Code
-***python
+```python
 get_integer=input("get integer:")
-***
+```
 
 ##Table
 print | input
