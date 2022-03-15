@@ -2,7 +2,7 @@
 
 ## python
 
-** print function **
+**print function**
 
 ### Code
 ```python
@@ -11,7 +11,7 @@ print(345)
 print("{}".format(a))
 ```
 
-** input function **
+**input function**
 
 ### Code
 ```python
