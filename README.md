@@ -11,14 +11,14 @@ print(345)
 print("{}".format(a))
 ```
 
-** input function**
+** input function **
 
 ### Code
 ```python
 get_integer=input("get integer:")
 ```
 
-##Table
+## Table
 print | input
 ----- | -----
 print() | input()
