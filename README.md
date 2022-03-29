@@ -22,3 +22,27 @@ get_integer=input("get integer:")
 print | input
 ----- | -----
 print() | input()
+
+
+## C++
+
+**print function**
+
+### Code
+'''C++
+cout<<"Hello";
+cout<<345;
+cout<<a;
+'''
+
+**input function**
+
+### Code
+```C++
+cin>>integer;
+```
+
+## Table
+print | input
+----- | -----
+cout<< | cin>>
