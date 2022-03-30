@@ -24,6 +24,16 @@ print | input
 print() | input()
 
 
+
+
+
+
+
+
+
+
+
+
 ## C++
 
 **print function**
